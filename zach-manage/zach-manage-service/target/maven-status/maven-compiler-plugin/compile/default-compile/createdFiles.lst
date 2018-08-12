@@ -1,0 +1,5 @@
+com\zach\manage\service\impl\ItemDescServiceImpl.class
+com\zach\manage\service\impl\ItemCatServiceImpl.class
+com\zach\manage\service\impl\ItemServiceImpl.class
+com\zach\manage\service\impl\BaseServiceImpl.class
+com\zach\manage\service\impl\TestServiceImpl.class

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastdfs-client-java" />
+        <module name="zach-common" />
+        <module name="zach-fastdfs" />
+        <module name="zach-manage-interface" />
+        <module name="zach-manage-mapper" />
+        <module name="zach-manage-pojo" />
+        <module name="zach-manage-service" />
+        <module name="zach-manage-web" />
+        <module name="zach-portal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="fastdfs-client-java" target="1.6" />
+      <module name="zach-common" target="1.8" />
+      <module name="zach-fastdfs" target="1.5" />
+      <module name="zach-manage" target="1.8" />
+      <module name="zach-manage-interface" target="1.8" />
+      <module name="zach-manage-mapper" target="1.8" />
+      <module name="zach-manage-pojo" target="1.8" />
+      <module name="zach-manage-service" target="1.8" />
+      <module name="zach-manage-web" target="1.8" />
+      <module name="zach-manager" target="1.5" />
+      <module name="zach-parent" target="1.8" />
+      <module name="zach-portal" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

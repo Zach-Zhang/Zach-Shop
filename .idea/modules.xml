@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs-client/fastdfs-client-java.iml" filepath="$PROJECT_DIR$/fastdfs-client/fastdfs-client-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-common/zach-common.iml" filepath="$PROJECT_DIR$/zach-common/zach-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-fastdfs/zach-fastdfs.iml" filepath="$PROJECT_DIR$/zach-fastdfs/zach-fastdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-manage/zach-manage.iml" filepath="$PROJECT_DIR$/zach-manage/zach-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-manage/zach-manage-interface/zach-manage-interface.iml" filepath="$PROJECT_DIR$/zach-manage/zach-manage-interface/zach-manage-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-manage/zach-manage-mapper/zach-manage-mapper.iml" filepath="$PROJECT_DIR$/zach-manage/zach-manage-mapper/zach-manage-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-manage/zach-manage-pojo/zach-manage-pojo.iml" filepath="$PROJECT_DIR$/zach-manage/zach-manage-pojo/zach-manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-manage/zach-manage-service/zach-manage-service.iml" filepath="$PROJECT_DIR$/zach-manage/zach-manage-service/zach-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-manage-web/zach-manage-web.iml" filepath="$PROJECT_DIR$/zach-manage-web/zach-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-parent/zach-parent.iml" filepath="$PROJECT_DIR$/zach-parent/zach-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zach-portal/zach-portal.iml" filepath="$PROJECT_DIR$/zach-portal/zach-portal.iml" />
+    </modules>
+  </component>
+</project>

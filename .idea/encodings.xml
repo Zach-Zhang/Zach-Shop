@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/fastdfs-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-fastdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-manage/zach-manage-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-manage/zach-manage-mapper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-manage/zach-manage-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-manage/zach-manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zach-portal" charset="UTF-8" />
+  </component>
+</project>
