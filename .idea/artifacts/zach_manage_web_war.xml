@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="zach-manage-web:war">
-    <output-path>$PROJECT_DIR$/zach-manage-web/target</output-path>
-    <root id="archive" name="zach-manage-web.war">
-      <element id="artifact" artifact-name="zach-manage-web:war exploded" />
-    </root>
-  </artifact>
-</component>
