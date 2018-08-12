@@ -1,5 +1,0 @@
-0:0:0:0:0:0:0:1 - - [22/Apr/2018:12:26:47 +0800] "GET /rest/test/date HTTP/1.1" 200 21 http-bio-9091-exec-1 5026
-0:0:0:0:0:0:0:1 - - [22/Apr/2018:12:26:49 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9091-exec-3 12
-0:0:0:0:0:0:0:1 - - [22/Apr/2018:12:26:52 +0800] "GET /rest/test/date HTTP/1.1" 200 21 http-bio-9091-exec-5 21
-0:0:0:0:0:0:0:1 - - [22/Apr/2018:15:49:09 +0800] "GET /rest/test/date HTTP/1.1" 200 21 http-bio-9091-exec-1 2411
-0:0:0:0:0:0:0:1 - - [22/Apr/2018:16:43:13 +0800] "GET /rest/test/date HTTP/1.1" 200 21 http-bio-9091-exec-1 861
